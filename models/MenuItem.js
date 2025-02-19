@@ -12,4 +12,3 @@ const menuSchema = new mongoose.Schema({
 const MenuItem = mongoose.model('menu', menuSchema);
 
 module.exports = MenuItem;
-// Hlo
